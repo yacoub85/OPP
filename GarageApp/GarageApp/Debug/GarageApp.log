@@ -1,0 +1,9 @@
+﻿  GarageApp.cpp
+C:\Users\Jakob\source\repos\GarageApp\GarageApp\GarageApp.cpp(187,17): warning C4129: 'T': unrecognized character escape sequence
+C:\Users\Jakob\source\repos\GarageApp\GarageApp\GarageApp.cpp(188,17): warning C4129: 'Y': unrecognized character escape sequence
+C:\Users\Jakob\source\repos\GarageApp\GarageApp\GarageApp.cpp(207,17): warning C4129: 'L': unrecognized character escape sequence
+C:\Users\Jakob\source\repos\GarageApp\GarageApp\GarageApp.cpp(208,17): warning C4129: 'N': unrecognized character escape sequence
+C:\Users\Jakob\source\repos\GarageApp\GarageApp\GarageApp.cpp(228,17): warning C4129: 'W': unrecognized character escape sequence
+C:\Users\Jakob\source\repos\GarageApp\GarageApp\GarageApp.cpp(229,17): warning C4129: 'H': unrecognized character escape sequence
+C:\Users\Jakob\source\repos\GarageApp\GarageApp\Garage.h(150): warning C4715: 'Garage::findByAndPrintOut': not all control paths return a value
+  GarageApp.vcxproj -> C:\Users\Jakob\source\repos\GarageApp\Debug\GarageApp.exe
